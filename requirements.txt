@@ -1,3 +1,6 @@
-torch
-zetascale
-swarms
+numpy
+pandas
+yfinance
+loguru
+scikit-learn
+xgboost
