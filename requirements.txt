@@ -4,3 +4,11 @@ yfinance
 loguru
 scikit-learn
 xgboost
+uuid
+multiprocessing
+yfinance
+pandas
+scikit-learn
+xgboost
+sqlite3
+loguru

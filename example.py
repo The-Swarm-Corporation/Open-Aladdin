@@ -1,4 +1,7 @@
-from open_aladdin.main import fetch_stock_data, AdvancedRealTimeRiskAssessment
+from open_aladdin.main import (
+    fetch_stock_data,
+    AdvancedRealTimeRiskAssessment,
+)
 import time
 
 if __name__ == "__main__":

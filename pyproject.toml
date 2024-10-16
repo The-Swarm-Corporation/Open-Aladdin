@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "open-aladdin"
-version = "0.0.2"
+version = "0.0.3"
 description = "Open Aladdin - Pytorch"
 license = "MIT"
 authors = ["Kye Gomez <kye@apac.ai>"]
